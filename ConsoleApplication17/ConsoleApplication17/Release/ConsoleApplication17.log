@@ -1,0 +1,41 @@
+﻿  ConsoleApplication17.cpp
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(11,14): warning C4305: инициализация: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(12,17): warning C4305: инициализация: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(13,18): warning C4305: инициализация: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(22,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(59,40): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(60,41): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(61,42): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(73,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(74,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(80,14): warning C4305: *=: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(109,85): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(113,42): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(119,41): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(130,27): warning C4305: инициализация: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(138,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(147,37): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(148,18): warning C4305: +=: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(166,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(167,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(169,20): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(170,19): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(177,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(179,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(181,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(182,24): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(185,27): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(186,29): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(189,23): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(190,22): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(204,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(219,24): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(221,25): warning C4305: аргумент: усечение из "double" в "float"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(227,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\ConsoleApplication17\ConsoleApplication17\ConsoleApplication17.cpp(235,28): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  Создание кода
+  2 of 29 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication17.vcxproj -> D:\ConsoleApplication17\Release\ConsoleApplication17.exe
